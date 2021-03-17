@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">License</a>
 </p>
 
 <p align="center">
@@ -21,29 +21,29 @@
   <img alt="dev.finances" src=".github/devfinances.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technology
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML
 - CSS
 - JavaScript
 
-## 💻 Projeto
+## 💻 Project
 
-O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
+The dev.finances is a financial control application, where you can register and delete transactions and see the incoming and outgoing balance 💰
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+You can view the project layout through [from this link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover). Account is required at [Figma](https://figma.com) to access it.
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for more details.
 
 ---
 
-Foi incrível as aulas ministradas pelo [Mayk Brito](https://github.com/maykbrito). Onde podemos aprender, revisar ou desenvolver (a depender do nível) MUUITO atráves desse projeto!
+It was incredible the classes given by [Mayk Brito](https://github.com/maykbrito). Where we can learn, revise or develop (depending on the level) SO MUCH through this project!
 
-Feito com ♥ by Rocketseat :wave: e compartilhada pelos seus ♥ alunos!
-[Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Made with ♥ by Rocketseat :wave: and shared by your ♥ students!
+[Join our community!](https://discordapp.com/invite/gCRAFhc)
